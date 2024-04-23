@@ -76,6 +76,7 @@ section p{
 }
 
 .imagem p{
+    margin-right: 10px;
     text-shadow: 1px 1px 0px black;
     border-radius: 15px;
     background-color: #0000006c;
